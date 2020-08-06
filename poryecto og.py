@@ -29,8 +29,7 @@ Cleric=['Puntos de vida:8','Velocidad:2','Ataque:4','Defensa:12','Umbral de hech
 'Prob.de hechizo de defensa:20','Prob. de hechizo decuración:40','Daño mín:1','Daño máx:6','Daño de hechizo mínimo:0','Daño de hechizo máximo:0']
 
 
-
-caracFighter=['12','3','5','14','20','0','0','0','2','8','0','0']
+caracFighter=[12,3,5,14,20,0,0,0,2,8,0,0]
 caracWizard=['6','2','2','12','10','20','40','0','1','4','4','12']
 caracCleric=['8','2','4','12','12','0','20','40','1','6','0','0']
 
@@ -69,7 +68,3 @@ if aleatorio==3:
 caracFighter=['12','3','5','14','20','0','0','0','2','8','0','0']
 caracWizard=['6','2','2','12','10','20','40','0','1','4','4','12']
 caracCleric=['8','2','4','12','12','0','20','40','1','6','0','0']
-
-
-
-     
